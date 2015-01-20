@@ -1,0 +1,7 @@
+src/main/webapp/WEB-INF/dispatcher-servlet.xml
+
+/target/
+
+.project
+.classpath
+.settings
